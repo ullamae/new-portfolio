@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(216, 202, 156);
+}
+
+h1 {
+   background-color: rgb(255, 242, 206);
+   font-family: Helvetica;
+   color: rgb(0, 0, 0);
+}
+
+h2 {
+   background-color: rgb(255, 242, 206);
+   font-family: Helvetica;
+   color: rgb(0, 0, 0);
+}
+
+li {
+   font-family: Helvetica;
+   color: rgb(0, 0, 0);
+}
+
+p {
+   font-family: Helvetica;
+   color: rgb(0, 0, 0);
+}
